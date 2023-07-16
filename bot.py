@@ -193,4 +193,4 @@ async def ask(ctx, *, prompt):
     await ctx.send(response["choices"][0]["text"])
 
 
-bot.run("MTA0NDY1Nzc5Njc1NjUzNzUyOA.GqdCfU.7QSaCYFPDndGfQo4ugFkhOVQ1AExoq0ILCbsr0")
+bot.run("")
